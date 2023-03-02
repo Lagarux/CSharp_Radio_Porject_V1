@@ -1,0 +1,20 @@
+C:\Users\ttt-g\Desktop\WSTE\Visual_Studio\Asp.Net\RadioProject\RadioProject\bin\Debug\Interop.WMPLib.dll
+C:\Users\ttt-g\Desktop\WSTE\Visual_Studio\Asp.Net\RadioProject\RadioProject\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\ttt-g\Desktop\WSTE\Visual_Studio\Asp.Net\RadioProject\RadioProject\obj\Debug\RadioProject.csproj.AssemblyReference.cache
+C:\Users\ttt-g\Desktop\WSTE\Visual_Studio\Asp.Net\RadioProject\RadioProject\obj\Debug\RadioProject.csproj.SuggestedBindingRedirects.cache
+C:\Users\ttt-g\Desktop\WSTE\Visual_Studio\Asp.Net\RadioProject\RadioProject\obj\Debug\Interop.WMPLib.dll
+C:\Users\ttt-g\Desktop\WSTE\Visual_Studio\Asp.Net\RadioProject\RadioProject\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\ttt-g\Desktop\WSTE\Visual_Studio\Asp.Net\RadioProject\RadioProject\obj\Debug\RadioProject.csproj.ResolveComReference.cache
+C:\Users\ttt-g\Desktop\WSTE\Visual_Studio\Asp.Net\RadioProject\RadioProject\obj\Debug\RadioProject.RadioControlCenter.resources
+C:\Users\ttt-g\Desktop\WSTE\Visual_Studio\Asp.Net\RadioProject\RadioProject\obj\Debug\RadioProject.Properties.Resources.resources
+C:\Users\ttt-g\Desktop\WSTE\Visual_Studio\Asp.Net\RadioProject\RadioProject\obj\Debug\RadioProject.csproj.GenerateResource.cache
+C:\Users\ttt-g\Desktop\WSTE\Visual_Studio\Asp.Net\RadioProject\RadioProject\obj\Debug\RadioProject.csproj.CoreCompileInputs.cache
+C:\Users\ttt-g\Desktop\WSTE\Visual_Studio\Asp.Net\RadioProject\RadioProject\bin\Debug\Radio Control Center.exe.config
+C:\Users\ttt-g\Desktop\WSTE\Visual_Studio\Asp.Net\RadioProject\RadioProject\bin\Debug\Radio Control Center.exe.manifest
+C:\Users\ttt-g\Desktop\WSTE\Visual_Studio\Asp.Net\RadioProject\RadioProject\bin\Debug\Radio Control Center.application
+C:\Users\ttt-g\Desktop\WSTE\Visual_Studio\Asp.Net\RadioProject\RadioProject\bin\Debug\Radio Control Center.exe
+C:\Users\ttt-g\Desktop\WSTE\Visual_Studio\Asp.Net\RadioProject\RadioProject\bin\Debug\Radio Control Center.pdb
+C:\Users\ttt-g\Desktop\WSTE\Visual_Studio\Asp.Net\RadioProject\RadioProject\obj\Debug\Radio Control Center.exe.manifest
+C:\Users\ttt-g\Desktop\WSTE\Visual_Studio\Asp.Net\RadioProject\RadioProject\obj\Debug\Radio Control Center.application
+C:\Users\ttt-g\Desktop\WSTE\Visual_Studio\Asp.Net\RadioProject\RadioProject\obj\Debug\Radio Control Center.exe
+C:\Users\ttt-g\Desktop\WSTE\Visual_Studio\Asp.Net\RadioProject\RadioProject\obj\Debug\Radio Control Center.pdb
